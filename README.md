@@ -6,6 +6,7 @@ This project's goal was to use audio characteristics gathered from songs to iden
 
 The dataset can be accessed from Kaggle:
 [GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification/data)
+Download the folders "genres_original" and "images_original", and the csv files "features_3_sec.csv" and "features_30_sec.csv".
 
 ## Setup Instructions
 ### 1. Creating the Virtual Environment
