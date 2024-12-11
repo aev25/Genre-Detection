@@ -42,4 +42,4 @@ pip install librosa pandas numpy matplotlib seaborn scikit-learn tensorflow sqla
 
 ### 4. Running the Prediction Notebook
 
-Open and execute the `genre_detection_CS210.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
+Open and execute the `genre_detection.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
