@@ -37,7 +37,7 @@ For Windows
 Install all necessary libraries by running:
 
 ```
-pip install pandas numpy librosa matplotlib seaborn scikit-learn tensorflow sqlalchemy
+pip install librosa
 ```
 
 ### 4. Running the Prediction Notebook
